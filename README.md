@@ -2,8 +2,22 @@
 
 ## CSCI 430 (Fall 2020):
 
+* [Blx Music Maker](BlxMusicMaker.md)
+* [Booked](Booked.md)
+* [CSU Map](CSUMap.md)
+* [Fresh Start](FreshStart.md)
+* [GroceryPals](GroceryPals.md)
+* [Gruvest](Gruvest.md)
+* [Happy Houseplants](Happy_Houseplants.md)
 * [Life's Library](LifesLibrary.md)
-* [Xyz](Xyz.md)
+* [TheLivingRoom](TheLivingRoom.md)
+* [MoneyPool](MoneyPool.md)
+* [Pedal Maps](PedalMaps.md)
+* [Playbuddy](Playbuddy.md)
+* [Portfolio](portfolio.md)
+* [Revercipe](Revercipe.md)
+* [Storebud](Storebud.md)
+* [What to Watch](whatToWatch.md)
 
 ## CSCI 430 (Spring 2020):
 
